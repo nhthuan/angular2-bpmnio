@@ -1,5 +1,5 @@
-# Angular2Bpmnio
-
+# angular2-bpmnio
+Example project for angular2 and bpmnio integration
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.4.
 
 ## Development server
